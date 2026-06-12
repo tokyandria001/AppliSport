@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AppliSport
+  description: AppliSport (C++)
+  annotations:
+    github.com/project-slug: tokyandria001/AppliSport
+  tags:
+    - cpp
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
