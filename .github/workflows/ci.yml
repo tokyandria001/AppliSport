@@ -10,6 +10,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: No stack detected
         run: echo "Aucune stack connue détectée automatiquement. Adaptez ce pipeline à votre projet."
