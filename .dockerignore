@@ -1,0 +1,10 @@
+.git
+.github
+.env
+.env.*
+*.log
+README.md
+.dart_tool
+build
+.flutter-plugins
+.flutter-plugins-dependencies
